@@ -9,12 +9,12 @@ Meu helper particular de atalhos e comandos.
 - [ ] Python
 - [ ] Java
 - [ ] C++
+- [ ] C#
 - [ ] Rust
 - [ ] Golang
 - [ ] PHP
+- [ ] Lua
 - [ ] Linux
 - [ ] Windows
 - [ ] Shellscript
-- [ ] C#
-- [ ] Lua
 - [ ] Hacker
