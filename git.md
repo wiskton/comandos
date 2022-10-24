@@ -6,6 +6,25 @@ Meu helper de comandos para consulta rápida sobre git.
 
 Ao criar um projeto prefira escolher a licensa MIT.
 
+### Gerar uma nova key do git
+
+```bash
+ssh-keygen
+```
+
+### Configurando dados do usuários no git
+
+```bash
+git config --global user.name "Willem Allan"
+git config --global user.email "willemarf@yahoo.com.br"
+```
+
+### Iniciar um projeto git
+
+```bash
+git init
+```
+
 ## Baixar um novo repositório
 
 ```bash
