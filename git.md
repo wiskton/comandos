@@ -333,8 +333,8 @@ __Exemplos__ de **markdown** para lista
 
 ### Helper
 
-[ x ] git
-[ ] c++
+- [ x ] git
+- [ ] c++
 
 ### Links
 
