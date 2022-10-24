@@ -1,5 +1,7 @@
 # Git - Principais comandos
 
+Meu helper de comandos para consulta rápido sobre git.
+
 ## Dicas
 
 Ao criar um projeto prefira escolher a licensa MIT.
