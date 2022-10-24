@@ -15,8 +15,8 @@ ssh-keygen
 ### Configurando dados do usuários no git
 
 ```bash
-git config --global user.name "Willem Allan"
-git config --global user.email "willemarf@yahoo.com.br"
+git config --global user.name "<nome>"
+git config --global user.email "<email>"
 ```
 
 ### Iniciar um projeto git
