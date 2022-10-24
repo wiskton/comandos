@@ -66,7 +66,7 @@ INSTALLED_APPS = (....
 
 ## Banco de dados
 
-Criar um admin no useradmin do django
+Criar um usuário admin no django
 ```python
 python manage.py createsuperuser
 ```
