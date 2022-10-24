@@ -23,14 +23,14 @@ npm i
 
 ```
 
-Instalar as dependecias do projeto
+Instalar as dependências do projeto
 
 ```javascript
 npm install
 ```
 
 
-Rodar um projeto Node
+Rodar um projeto Node local
 
 ```javascript
 npm run dev
