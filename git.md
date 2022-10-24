@@ -6,7 +6,7 @@ Ao criar um projeto prefira escolher a licensa MIT.
 
 ## Baixar um novo repositório
 
-git clone <url> <nome-pasta>
+git clone [url] [nome-pasta]
 
 ## Alterando origin do projeto
 
