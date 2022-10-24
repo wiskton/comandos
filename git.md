@@ -25,11 +25,18 @@ git config --global user.email "willemarf@yahoo.com.br"
 git init
 ```
 
-#### Voltar um commit antes de dar push
+### Voltar um commit antes de dar push
 
 ```bash
 git reset HEAD~
 ```
+
+### Voltar um commit antes de dar push sem perder arquivos
+
+```bash
+git reset --soft HEAD~1
+```
+
 
 ## Baixar um novo repositório
 
@@ -158,6 +165,12 @@ Listar todas as alterações na lista
 
 ```bash
 git stash list
+```
+
+Recupera os últimos dados da pilha da memória
+
+```bash
+git stash pop
 ```
 
 Recuperar os dados do stash com o comando
