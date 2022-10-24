@@ -311,3 +311,39 @@ Agora basta sair
 ```bash
 :x!
 ```
+
+## Markdown
+
+__Exemplos__ de **markdown** para lista
+
+![Logo do Python](imgs/python.png)
+
+### Lista de helper
+
+* git
+* c++
+* python
+
+### Lista de helper
+
+1. git
+2. c++
+3. python
+4. js 
+
+### Helper
+
+[ x ] git
+[ ] c++
+
+### Links
+
+[Meu Site](https://willemallan.com.br)
+[Youtube](https://youtube.com/wiskton)
+
+### Códigos
+
+```python
+print("Hello World")
+```
+
