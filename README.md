@@ -1,5 +1,5 @@
 # My help
-Meu help particular de atalhos e comandos.
+Meu helper particular de atalhos e comandos.
 
 ## Helps
 
