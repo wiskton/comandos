@@ -79,8 +79,8 @@ python manage.py makemigrations <nome_app>
 Criar a migração e executa no banco de dados para um app específico
 
 ```python
-python manage.py schemamigration nome_app --initial
-python manage.py migrate nome_app
+python manage.py makemigrations <nome_app>
+python manage.py migrate <nome_app>
 ```
 
 Criar todas as tabelas e modificações nas migrações do django
