@@ -6,7 +6,7 @@ Meu helper de comandos para consulta rápida sobre git.
 
 Ao criar um projeto prefira escolher a licensa MIT.
 
-### Gerar uma nova key do git
+### Gerar uma nova chave do git
 
 ```bash
 ssh-keygen
