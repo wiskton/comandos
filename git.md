@@ -25,6 +25,12 @@ git config --global user.email "willemarf@yahoo.com.br"
 git init
 ```
 
+#### Voltar um commit antes de dar push
+
+```bash
+git reset HEAD~
+```
+
 ## Baixar um novo repositório
 
 ```bash
