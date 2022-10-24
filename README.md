@@ -1,7 +1,7 @@
-# My help
+# My helper
 Meu helper particular de atalhos e comandos.
 
-## Helps
+## Helpers
 
 * [GIT](https://github.com/wiskton/my-help/blob/main/git.md)
 * [Nodejs](https://github.com/wiskton/my-help/blob/main/nodejs.md)
