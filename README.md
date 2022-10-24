@@ -3,6 +3,6 @@ Meu helper particular de atalhos e comandos.
 
 ## Helpers
 
-* [GIT](https://github.com/wiskton/my-help/blob/main/git.md)
+* [Git](https://github.com/wiskton/my-help/blob/main/git.md)
 * [Nodejs](https://github.com/wiskton/my-help/blob/main/nodejs.md)
 * [Django](https://github.com/wiskton/my-help/blob/main/django.md)
