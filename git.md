@@ -257,7 +257,7 @@ git archive --format zip --output arquivo_master.zip master
 
 ### Removendo os commits com frases ruins 
 
-Comando
+Comando para alterar commits com textos indesejados em cima de duas branches
 
 ```bash
 git rebase dev release
