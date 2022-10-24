@@ -1,6 +1,6 @@
 # Git - Principais comandos
 
-Meu helper de comandos para consulta rápido sobre git.
+Meu helper de comandos para consulta rápida sobre git.
 
 ## Dicas
 
